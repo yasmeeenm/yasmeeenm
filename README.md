@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasmeen
 - 👀 I’m interested in art and reading
-- 🌱 I’m currently learning python for data science
+- 🌱 I’m currently completing a data science certification
 - 📫 How to reach me email me!
 
 <!---
