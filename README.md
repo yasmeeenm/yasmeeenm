@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yasmeen
 - 👀 I’m interested in art and reading
-- 🌱 I’m currently completing a data science certification
-- 📫 How to reach me email me!
+- 🌱 I’ve recently completed a data science certification at Le Wagon London
 
 <!---
 yasmeeenm/yasmeeenm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
