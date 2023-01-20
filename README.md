@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yasmeen</h1>
-<h3 align="center">A highly motivated analyst turned data scientist from South Africa</h3>
 
 - 🔭 I’m currently working on [Stock Market Prediction](https://github.com/yasmeeenm/Stock-Market-Prediction)
 
