@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yasmeeenm](https://github.com/yasmeeenm)
 
-- 📫 How to reach me **yasmeenmahomedy@gmail.com**
+- 📫 How to reach me: 
 
 - ⚡ Fun fact **I love to do art!**
 
